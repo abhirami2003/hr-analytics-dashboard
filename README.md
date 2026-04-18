@@ -31,6 +31,9 @@ This project focuses on analyzing employee data to understand workforce trends s
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
+### Attrition Analysis
+![Attrition](dashboard2.png)
+
 ---
 
 ## 🔍 Data Processing Steps
