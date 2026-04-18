@@ -26,7 +26,12 @@ This project focuses on analyzing employee data to understand workforce trends s
 - Visual representation using charts and KPIs  
 - Drill-down analysis for deeper insights  
 
+---
 
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
+---
 
 ## 🔍 Data Processing Steps
 1. Collected employee dataset  
